@@ -1,0 +1,18 @@
+String url="jdbc:sqlserver://184.168.194.58:1433;databaseName=hotelmycamp ; " +
+      "user=techproed;password=P2s@rt65";
+ 184.168.194.58 => Bu www.... adresinin asıl degeri IP adresi bu adres e ozel UNIQUE
+ 1433; => Islemcinin bir suru odası var bu odaya git senin sifre burayı acıyor
+ databaseName=hotelmycamp ; "user=techproed;password=P2s@rt65" => Bu bir authentecitaion
+     Bu  authentecitaion Servis yoneticisinden alırız
+ databaseName=hotelmycamp => Kullanacagımın database in ismi
+ user=techproed;password=P2s@rt65"  => DataBase ulasmak icin kullanıcı adı ve sifre
+
+  Verilen DataBase yetkiler verilen yetkilere gore degisir
+
+ // resultSet.getRow(); => Hamgi row dasın
+ // resultSet.first(); => Ilk row'a git
+ // resultSet.last();  => Son row'a git
+ // resultSet.absolute(5); => 5. row'a git
+ // resultSet.getObject("BookName"); => BookName row daki objeyi ver
+ // resultSet.getString("BookName"); => BookName row daki degeri ver
+

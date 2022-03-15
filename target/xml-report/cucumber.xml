@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="4.406">
-    <testcase classname="Kullanici DataBase baglanıp bilgileri okuyabilir" name="TC01 kullanici database baglanıp istedigi bilgileri okuyabilmeli" time="4.196">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="4.968">
+    <testcase classname="Kullanici DataBase baglanıp bilgileri okuyabilir" name="TC01 kullanici database baglanıp istedigi bilgileri okuyabilmeli" time="4.779">
         <system-out>
             <![CDATA[Given kullanici HMC veri tabanina baglanir..................................passed
 And kullanici "tHOTELROOM" tablosundaki "Price" verilerini alir.............passed
